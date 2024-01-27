@@ -19,7 +19,7 @@ git clone https://github.com/Maniceraf/notes_keeper.git
 3. Change to the project directory:
 
 ```bash
-cd to_do_list
+cd notes_keeper
 ```
 
 4. Install the dependencies:
